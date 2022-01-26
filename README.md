@@ -1,1 +1,1 @@
-# evarugs
+# https://aituarmu.github.io/evarugs/
